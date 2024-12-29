@@ -3,13 +3,13 @@
 This is a React.js-based flight search app using Material UI v6.1.1 and the RapidAPI Sky Scraper API to search and display flight results.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React.js**: A JavaScript library for building user interfaces.
 - **Material UI v6.1.1**: A popular React UI framework with customizable components.
 - **RapidAPI Sky Scraper API**: The flight search engine that powers the flight data in this app.
 
-## 📝 How to Install
+## How to Install
 
 1. Clone the repository:
 
